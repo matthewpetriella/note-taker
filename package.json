@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.0",
+    "heroku": "^7.60.2",
+    "jest": "^28.0.2"
+  },
+  "name": "note-taker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewpetriella/note-taker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewpetriella/note-taker/issues"
+  },
+  "homepage": "https://github.com/matthewpetriella/note-taker#readme"
+}
